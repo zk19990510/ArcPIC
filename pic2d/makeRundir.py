@@ -97,4 +97,4 @@ gitlog.flush()
 subprocess.call(["git", "diff"], stdout=gitlog, stderr=subprocess.STDOUT)
 gitlog.write("\n\n")
 
-print "Installed ArcPic in \"" + newpath + "\""
+print "Installed ArcPic in \"" D:\VSim-12.2.0\ArcPIC-master\123 "\""
