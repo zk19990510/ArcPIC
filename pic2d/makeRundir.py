@@ -16,7 +16,7 @@ print "************************************************"
 print "*** makeRundir.py:                           ***"
 print "*** Small utility for copying the sources    ***"
 print "*** and standard input file to a new path.   ***"
-print "*** Usage: makeRundir.py new/path/           ***"
+print "*** Usage: makeRundir.py D:\VSim-12.2.0\ArcPIC-master\123           ***"
 print "************************************************"
 
 import sys, os, shutil, stat
